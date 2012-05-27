@@ -1,4 +1,4 @@
 bbrun
 =====
 
-nothing is impossible
+this is a test page
